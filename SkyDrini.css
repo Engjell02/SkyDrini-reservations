@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: gray;
+    font-family: 'Roboto', Helvetica, sans-serif;
+}
+
+/*.app {*/
+/*    display: flex;*/
+/*    flex-flow: column;*/
+
+/*    width: 100vw;*/
+/*    height: 100vh;*/
+/*}*/
+
+header{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    height: 60px;
+    color: #F3F3F3;
+    font-family: Copperplate, Papyrus, fantasy;
+}
+header h2{
+    justify-content: center;
+    margin-left: 2%;
+}
+header #jasht{
+    justify-content: center;
+    margin-left: 31%;
+}
+
+.container{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.container .element {
+    background-color: #F3F3F3;
+    border-radius: 8px;
+    padding: 10px 10px;
+    text-align: center;
+    margin: 4px 0px;
+    width: 60px;
+    height: 50px;
+}
+
+#list1{
+    position: absolute;
+
+    left: 200px;
+}
+
+#list2{
+    position: absolute;
+
+    left: 400px;
+}
+
+#e1{position: absolute; left: 468px; top: 669px;}
+#e2{position: absolute; left: 345px; top: 661px}
+#e3{position: absolute; left: 248px; top: 597px;}
+#e4{position: absolute; left: 173px; top: 484px;}
+#e5{position: absolute; left: 172px; top: 373px;}
+#e6{position: absolute; left: 206px; top: 271px;}
+#e7{position: absolute; left: 282px; top: 195px;}
+#e8{position: absolute; left: 382px; top: 151px;}
+#e9{position: absolute; left: 510px; top: 140px;}
+#e10{position: absolute; left: 531px; top: 543px;}
+#e11{position: absolute; left: 531px; top: 458px;}
+#e12{position: absolute; left: 528px; top: 369px;}
+#e13{position: absolute; left: 526px; top: 279px;}
+#e14{position: absolute; left: 366px; top: 513px;}
+#e15{position: absolute; left: 367px; top: 422px;}
+#e16{position: absolute; left: 367px; top: 321px;}
+#e17{position: absolute; left: 749px; top: 152px;}
+#e18{position: absolute; left: 860px; top: 196px;}
+#e19{position: absolute; left: 920px; top: 287px;}
+#e20{position: absolute; left: 924px; top: 386px;}
+#e21{position: absolute; left: 926px; top: 480px;}
+#e22{position: absolute; left: 816px; top: 422px;}
+#e23{position: absolute; left: 817px; top: 311px;}
+#e24{position: absolute; left: 716px; top: 261px;}
+#e25{position: absolute; left: 716px; top: 362px;}
+#e26{position: absolute; left: 633px; top: 141px;}
