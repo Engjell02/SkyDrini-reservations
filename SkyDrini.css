@@ -49,6 +49,72 @@ header #jasht{
     height: 50px;
 }
 
+
+
+
+
+#personList{
+    position: fixed;
+    top: 4px;
+    right: 4px;
+    width: 600px;
+    height: 100%;
+    border-radius: 8px;
+    padding: 10px 10px;
+    background-color: rgba(999, 999, 999, 0.2); /* Semi-transparent background */
+    display: flex;
+    text-align: center;
+}
+#personList button{
+    background-color: #F3F3F3;
+    border-radius: 8px;
+    padding-top: 3px;
+    text-align: center;
+    width: 60px;
+    height: 25px;
+}
+#personList input{
+    background-color: #F3F3F3;
+    border-radius: 8px;
+    height: 30px;
+    width: 100px;
+}
+
+#personList label,#personList button{
+    margin-left: 15px;
+    right: 0;
+}
+
+#addPerson{
+    /*background-color: blue;*/
+    height: 80px;
+}
+
+#addPerson div{
+    margin-top: 10px;
+    text-align: center;
+}
+
+#myshteri{
+    position: absolute;
+    margin-top: 70px;
+    width: 580px;
+}
+
+.person{
+    background-color: #F3F3F3;
+    border-radius: 8px;
+    padding: 10px 10px;
+    text-align: center;
+    margin: 4px 3px ;
+    width: 99%;
+    height: 50px;
+}
+
+
+
+
+
 #list1{
     position: absolute;
 
@@ -61,29 +127,29 @@ header #jasht{
     left: 400px;
 }
 
-#e1{position: absolute; left: 468px; top: 669px;}
-#e2{position: absolute; left: 345px; top: 661px}
-#e3{position: absolute; left: 248px; top: 597px;}
-#e4{position: absolute; left: 173px; top: 484px;}
-#e5{position: absolute; left: 172px; top: 373px;}
-#e6{position: absolute; left: 206px; top: 271px;}
-#e7{position: absolute; left: 282px; top: 195px;}
-#e8{position: absolute; left: 382px; top: 151px;}
-#e9{position: absolute; left: 510px; top: 140px;}
-#e10{position: absolute; left: 531px; top: 543px;}
-#e11{position: absolute; left: 531px; top: 458px;}
-#e12{position: absolute; left: 528px; top: 369px;}
-#e13{position: absolute; left: 526px; top: 279px;}
-#e14{position: absolute; left: 366px; top: 513px;}
-#e15{position: absolute; left: 367px; top: 422px;}
-#e16{position: absolute; left: 367px; top: 321px;}
-#e17{position: absolute; left: 749px; top: 152px;}
-#e18{position: absolute; left: 860px; top: 196px;}
-#e19{position: absolute; left: 920px; top: 287px;}
-#e20{position: absolute; left: 924px; top: 386px;}
-#e21{position: absolute; left: 926px; top: 480px;}
-#e22{position: absolute; left: 816px; top: 422px;}
-#e23{position: absolute; left: 817px; top: 311px;}
-#e24{position: absolute; left: 716px; top: 261px;}
-#e25{position: absolute; left: 716px; top: 362px;}
-#e26{position: absolute; left: 633px; top: 141px;}
+#e1{position: absolute; left: 368px; top: 669px;}
+#e2{position: absolute; left: 245px; top: 661px}
+#e3{position: absolute; left: 148px; top: 597px;}
+#e4{position: absolute; left: 73px; top: 484px;}
+#e5{position: absolute; left: 72px; top: 373px;}
+#e6{position: absolute; left: 106px; top: 271px;}
+#e7{position: absolute; left: 182px; top: 195px;}
+#e8{position: absolute; left: 282px; top: 151px;}
+#e9{position: absolute; left: 410px; top: 140px;}
+#e10{position: absolute; left: 431px; top: 543px;}
+#e11{position: absolute; left: 431px; top: 458px;}
+#e12{position: absolute; left: 428px; top: 369px;}
+#e13{position: absolute; left: 426px; top: 279px;}
+#e14{position: absolute; left: 266px; top: 513px;}
+#e15{position: absolute; left: 267px; top: 422px;}
+#e16{position: absolute; left: 267px; top: 321px;}
+#e17{position: absolute; left: 649px; top: 152px;}
+#e18{position: absolute; left: 760px; top: 196px;}
+#e19{position: absolute; left: 820px; top: 287px;}
+#e20{position: absolute; left: 824px; top: 386px;}
+#e21{position: absolute; left: 826px; top: 480px;}
+#e22{position: absolute; left: 716px; top: 422px;}
+#e23{position: absolute; left: 717px; top: 311px;}
+#e24{position: absolute; left: 616px; top: 261px;}
+#e25{position: absolute; left: 616px; top: 362px;}
+#e26{position: absolute; left: 533px; top: 141px;}
