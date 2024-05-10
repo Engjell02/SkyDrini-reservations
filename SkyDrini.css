@@ -9,14 +9,6 @@ body {
     font-family: 'Roboto', Helvetica, sans-serif;
 }
 
-/*.app {*/
-/*    display: flex;*/
-/*    flex-flow: column;*/
-
-/*    width: 100vw;*/
-/*    height: 100vh;*/
-/*}*/
-
 header{
     display: flex;
     justify-content: left;
@@ -147,9 +139,11 @@ header #jasht{
 #e18{position: absolute; left: 760px; top: 196px;}
 #e19{position: absolute; left: 820px; top: 287px;}
 #e20{position: absolute; left: 824px; top: 386px;}
-#e21{position: absolute; left: 826px; top: 480px;}
+#e21{position:
+        absolute; left: 826px; top: 480px;}
 #e22{position: absolute; left: 716px; top: 422px;}
 #e23{position: absolute; left: 717px; top: 311px;}
 #e24{position: absolute; left: 616px; top: 261px;}
 #e25{position: absolute; left: 616px; top: 362px;}
 #e26{position: absolute; left: 533px; top: 141px;}
+
